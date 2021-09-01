@@ -30,6 +30,6 @@ I have also had smaller assignments exploring medical image segmentation based d
 
 Industry Experience
 ======
-In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/) in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
+In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
 
 Earlier in Summer, 2018 I was a Software Development Intern at [Western Digital](https://www.westerndigital.com/), Bangalore working in the Client Storage (SSDs) Validation Division.  
