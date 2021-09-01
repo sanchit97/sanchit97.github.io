@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Univerity of Virginia, 2025 (expected)
-* M.S. in Computer Science, Univerity of Virginia, 2021
+* Ph.D in Computer Science, University of Virginia, 2025 (expected)
+* M.S. in Computer Science, University of Virginia, 2021
 * B.Tech. in Computer Science, IIIT-Delhi, 2019
 
 <!-- Work experience
