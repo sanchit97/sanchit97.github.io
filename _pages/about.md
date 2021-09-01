@@ -7,11 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!
+Greetings!
+
 I am a first year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). I am part of the [QData Lab](https://qdata.github.io/qdata-page/) advised by [Dr. Yanjun Qi](https://www.cs.virginia.edu/yanjun/). I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 
 Research Areas
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am broadly interested in interpretability and robustness of Machine Learning models with a special focus on language models. I am also interested in exploring adversarial attacks on language models. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
+
+I have been also involved in models to predict epidemiologic events like pest outbreaks, global migration and natural disasters at [Biocomplexity Institute and Initiative](https://biocomplexity.virginia.edu/).
+
+I have also had smaller assignments exploring medical image segmentation based diagnosis in the [MIDAS Lab at IIITD](http://midas.iiitd.edu.in/) advised by [Dr. Rajiv Ratn Shah](http://midas.iiitd.edu.in/team/rajiv-ratn-shah.html).
