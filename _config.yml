@@ -83,11 +83,11 @@ author:
   name             : "Sanchit Sinha"
   avatar           : "pfp.png"
   bio              : "First Year PhD student in Computer Science"
-  location         : "Charlottesville, VA"
-  employer         : University of Virginia
+  location         : 
+  employer         : University of Virginia, Charlottesville, VA
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=squ4_6IAAAAJ&hl=en"
-  email            :
+  email            : "ss7mu at virginia dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
