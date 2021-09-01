@@ -9,7 +9,12 @@ redirect_from:
 ---
 Greetings!
 
-I am a first year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). I am part of the [QData Lab](https://qdata.github.io/qdata-page/) advised by [Dr. Yanjun Qi](https://www.cs.virginia.edu/yanjun/). I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
+I am a first year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). I am part of the [QData Lab](https://qdata.github.io/qdata-page/) advised by [Dr. Yanjun Qi](https://www.cs.virginia.edu/yanjun/).
+
+I graduated with my Master of Science in Computer Science from University of Virginia in Spring 2021. My thesis was titled - ["
+Perturbing Inputs for Fragile Interpretations in Deep NLP"](https://libraetd.lib.virginia.edu/public_view/ft848r240)
+
+I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 
 Research Areas
 ======
