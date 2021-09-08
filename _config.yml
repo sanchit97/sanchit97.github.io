@@ -120,9 +120,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/publications.md
-  - _pages/CV.md
-  # - files
+  - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
