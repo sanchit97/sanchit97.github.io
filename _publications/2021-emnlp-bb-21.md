@@ -1,10 +1,10 @@
 ---
-title: "Perturbing Inputs for Fragile Interpretations in Deep Natural LanguageProcessing"
+title: "Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing"
 collection: publications
 permalink: /publication/emnlp-bb-21-fragile-interpretations
 excerpt: 
 date: 2021-09-03
-venue: 'EMNLP-BlackboxNLP 2021'
+venue: 'EMNLP-BlackboxNLP'
 paperurl: 'https://arxiv.org/pdf/2108.04990'
 # citation: 'Sanchit Sinha'
 ---
