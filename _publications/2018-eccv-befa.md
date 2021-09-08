@@ -3,8 +3,8 @@ title: "Exploring Bias in Primate Face Detection and Recognition"
 collection: publications
 permalink: /publication/eccv-befa-18-explore
 excerpt: 
-date: 2019-09-03
-venue: 'IEEE International Conference on Image Processing'
+date: 2018-09-03
+venue: 'ECCV-BEFA, 2018'
 paperurl: 'https://openaccess.thecvf.com/content_eccv_2018_workshops/w5/html/Sinha_Exploring_Bias_in_Primate_Face_Detection_and_Recognition_ECCVW_2018_paper.html'
 # citation: 'Sanchit Sinha'
 ---
