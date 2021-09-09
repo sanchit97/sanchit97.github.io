@@ -15,6 +15,8 @@ Education
 * M.S. in Computer Science, University of Virginia, 2021
 * B.Tech. in Computer Science, IIIT-Delhi, 2019
 
+The latest 1-page version can be downloaded [here](/files/Resume_SanchitSinha.pdf)
+
 <!-- Work experience
 ======
 * Summer 2019: Research Assistant
