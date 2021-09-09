@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+The latest 1-page version of Resume can be downloaded [here](/files/Resume_SanchitSinha.pdf)
+
+
 Education
 ======
 * Ph.D in Computer Science, University of Virginia, 2025 (expected)
 * M.S. in Computer Science, University of Virginia, 2021
 * B.Tech. in Computer Science, IIIT-Delhi, 2019
 
-The latest 1-page version can be downloaded [here](/files/Resume_SanchitSinha.pdf)
 
 <!-- Work experience
 ======
