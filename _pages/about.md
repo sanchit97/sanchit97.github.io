@@ -20,10 +20,14 @@ I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/)
 
 NEWS
 ======
-*Nov'2021*: I will be joining [Amazon Alexa Research Group](https://www.amazon.science/tag/alexa) as an Applied Scientist Intern during Summer 2022.
-*Nov'2021*: Will be presenting my work in EMNLP-BlackBox, 2021 on 11 November.
+*November '2021*: I will be joining [Amazon Alexa Research Group](https://www.amazon.science/tag/alexa) as an Applied Scientist Intern during Summer 2022.
+
+*November '2021*: Will be presenting my work in EMNLP-BlackBox, 2021 on 11 November.
+
 *October'2021* Paper accepted to [Complex Networks, 2021](https://complexnetworks.org/)
+
 *August 2021* Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/)
+
 *May 2021*: Started PhD at UVA CS
 
 Research Areas
