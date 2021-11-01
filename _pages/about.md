@@ -18,6 +18,14 @@ Perturbing Inputs for Fragile Interpretations in Deep NLP](https://libraetd.lib.
 
 I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 
+NEWS
+======
+*Nov'2021*: I will be joining [Amazon Alexa Research Group](https://www.amazon.science/tag/alexa) as an Applied Scientist Intern during Summer 2022.
+*Nov'2021*: Will be presenting my work in EMNLP-BlackBox, 2021 on 11 November.
+*October'2021* Paper accepted to [Complex Networks, 2021](https://complexnetworks.org/)
+*August 2021* Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/)
+*May 2021*: Started PhD at UVA CS
+
 Research Areas
 ======
 I am broadly interested in interpretability and robustness of Machine Learning models with a special focus on language models. I am also interested in exploring adversarial attacks on language models. 
@@ -30,6 +38,7 @@ I have also had smaller assignments exploring medical image segmentation based d
 
 Industry Experience
 ======
+
 In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
 
 Earlier in Summer, 2018 I was a Software Development Intern at [Western Digital](https://www.westerndigital.com/), Bangalore working in the Client Storage (SSDs) Validation Division.  
