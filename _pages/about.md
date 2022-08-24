@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 
-I am a first year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). 
+I am a second year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). 
 
 Education
 =====
@@ -21,9 +21,12 @@ I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/)
 
 NEWS
 ======
+
+*August 2022*: Succesfully completed internship at AWS Lex.
+
 *December 2021*: I join [Dr. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang) for future research 
 
-*November 2021*: I will be joining [Amazon Alexa Research Group](https://www.amazon.science/tag/alexa) as an Applied Scientist Intern during Summer 2022.
+*November 2021*: I will be joining [AWS Lex](https://aws.amazon.com/lex/) as an Applied Scientist Intern during Summer 2022.
 
 *November 2021*: Will be presenting my work in EMNLP-BlackBox, 2021 on 11 November.
 
@@ -33,11 +36,10 @@ NEWS
 
 *May 2021*: Started PhD at UVA CS.
 
-*May 2021*: Graduated MS in CS from UVA CS.
 
 Research Areas
 ======
-I am broadly interested in interpretability and robustness of Machine Learning models. I explore all 3 vericals of explainability - feature based, instance based and prototype based. 
+I am broadly interested in interpretability and robustness of Machine Learning models. I explore all 3 vericals of explainability - local, instance and global. 
 
 Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
 
@@ -47,7 +49,7 @@ I have also had smaller assignments exploring medical image segmentation based d
 
 Industry Experience
 ======
-In Summer, 2022 I will be joining the Amazon Alexa Research, Sunnyvale, CA as an Applied Scientist Intern working on conversational models and agents. 
+In Summer, 2022 I interned at AWS Lex, Sunnyvale, CA as an Applied Scientist Intern working on domain adaptation of large speech models. 
 
 In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
 
