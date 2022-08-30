@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sanchit Sinha"
   avatar           : "pfp.png"
-  bio              : "First Year PhD student in Computer Science"
+  bio              : "Second Year PhD student in Computer Science"
   location         : Charlottesville, VA
   employer         : University of Virginia
   pubmed           : 
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
