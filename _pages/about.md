@@ -39,7 +39,7 @@ NEWS
 
 Research Areas
 ======
-I am broadly interested in interpretability and robustness of Machine Learning models. I explore all 3 vericals of explainability - local, instance and global. 
+I am broadly interested in interpretability and robustness of Machine Learning models. I explore all 3 verticals of explainability - local, instance and global. 
 
 Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
 
