@@ -14,21 +14,20 @@ I am a second year PhD student in the [Computer Science department](https://engi
 Education
 =====
 
-I graduated with my Master of Science in Computer Science from University of Virginia in Spring 2021. My thesis was titled - [
+I graduated with my MS in Computer Science from University of Virginia in Spring 2021. My thesis was titled - [
 Perturbing Inputs for Fragile Interpretations in Deep NLP](https://libraetd.lib.virginia.edu/public_view/ft848r240)
 
 I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 
 NEWS
 ======
+*November 2022* Paper accepted to AAAI 2023. See you there!
 
-*August 2022*: Succesfully completed internship at AWS Lex.
+*October 2022* I will join Amazon Alexa as an Applied Science Intern in Summer 2023 in the Boston area.
+
+*August 2022*: Succesfully completed internship at [AWS Lex](https://aws.amazon.com/lex/).
 
 *December 2021*: I join [Dr. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang) for future research 
-
-*November 2021*: I will be joining [AWS Lex](https://aws.amazon.com/lex/) as an Applied Scientist Intern during Summer 2022.
-
-*November 2021*: Will be presenting my work in EMNLP-BlackBox, 2021 on 11 November.
 
 *October 2021*: Paper accepted to [Complex Networks, 2021](https://complexnetworks.org/).
 
