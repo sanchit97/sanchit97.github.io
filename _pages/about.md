@@ -21,9 +21,9 @@ I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/)
 
 NEWS
 ======
-*November 2022* Paper accepted to AAAI 2023. See you there!
+*November 2022*: Paper accepted to AAAI 2023. See you there!
 
-*October 2022* I will join Amazon Alexa as an Applied Science Intern in Summer 2023 in the Boston area.
+*October 2022*: I will join Amazon Alexa as an Applied Science Intern in Summer 2023.
 
 *August 2022*: Succesfully completed internship at [AWS Lex](https://aws.amazon.com/lex/).
 
