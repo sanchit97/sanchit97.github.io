@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 
-I am a second year PhD student in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). 
+I am a second year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/). 
 
 Education
 =====
@@ -21,15 +21,16 @@ I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/)
 
 NEWS
 ======
-*November 2022*: Paper accepted to AAAI 2023. See you there!
 
-*October 2022*: I will join Amazon Alexa as an Applied Science Intern in Summer 2023.
+*May 2023*: I will start my Applied Science Internship at Amazon Alexa NLU for Summer 2023.
+
+*April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
+
+*November 2022*: Paper accepted to AAAI 2023.
 
 *August 2022*: Succesfully completed internship at [AWS Lex](https://aws.amazon.com/lex/).
 
 *December 2021*: I join [Dr. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang) for future research 
-
-*October 2021*: Paper accepted to [Complex Networks, 2021](https://complexnetworks.org/).
 
 *August 2021*: Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/).
 
@@ -48,6 +49,8 @@ I have also had smaller assignments exploring medical image segmentation based d
 
 Industry Experience
 ======
+In Summer, 2023 I will interned at Alexa NLU, Cambridge, MA as an Applied Scientist Intern.
+
 In Summer, 2022 I interned at AWS Lex, Sunnyvale, CA as an Applied Scientist Intern working on domain adaptation of large speech models. 
 
 In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
