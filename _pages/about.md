@@ -11,16 +11,14 @@ Greetings!
 
 I am a second year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
-Education
-=====
-
-I graduated with my MS in Computer Science from University of Virginia in Spring 2021. My thesis was titled - [
-Perturbing Inputs for Fragile Interpretations in Deep NLP](https://libraetd.lib.virginia.edu/public_view/ft848r240)
-
-I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 
 NEWS
 ======
+
+
+*May 2023* Paper accepted to Interspeech 2023
+
+*May 2023* Co-author Paper accepted to KDD 2023
 
 *May 2023*: I will start my Applied Science Internship at Amazon Alexa NLU for Summer 2023.
 
@@ -49,10 +47,18 @@ I have also had smaller assignments exploring medical image segmentation based d
 
 Industry Experience
 ======
-In Summer, 2023 I will interned at Alexa NLU, Cambridge, MA as an Applied Scientist Intern.
+In Summer, 2023 I am interning at Alexa NLU, Cambridge, MA as an Applied Scientist Intern.
 
 In Summer, 2022 I interned at AWS Lex, Sunnyvale, CA as an Applied Scientist Intern working on domain adaptation of large speech models. 
 
 In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
 
 Earlier in Summer, 2018 I was a Software Development Intern at [Western Digital](https://www.westerndigital.com/), Bangalore working in the Client Storage (SSDs) Validation Division.  
+
+Education
+=====
+
+I graduated with my MS in Computer Science from University of Virginia in Spring 2021. My thesis was titled - [
+Perturbing Inputs for Fragile Interpretations in Deep NLP](https://libraetd.lib.virginia.edu/public_view/ft848r240)
+
+I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
