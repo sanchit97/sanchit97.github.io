@@ -9,24 +9,19 @@ redirect_from:
 ---
 Greetings!
 
-I am a second year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
+I am a third year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
 
 NEWS
 ======
 
-
 *May 2023* Paper accepted to Interspeech 2023
 
 *May 2023* Co-author Paper accepted to KDD 2023
 
-*May 2023*: I will start my Applied Science Internship at Amazon Alexa NLU for Summer 2023.
-
 *April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
 
 *November 2022*: Paper accepted to AAAI 2023.
-
-*August 2022*: Succesfully completed internship at [AWS Lex](https://aws.amazon.com/lex/).
 
 *December 2021*: I join [Dr. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang) for future research 
 
@@ -41,19 +36,19 @@ I am broadly interested in interpretability and robustness of Machine Learning m
 
 Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
 
-I have been also involved in models to predict epidemiologic events like pest outbreaks, global migration and natural disasters at [Biocomplexity Institute and Initiative](https://biocomplexity.virginia.edu/).
-
-I have also had smaller assignments exploring medical image segmentation based diagnosis in the [MIDAS Lab at IIITD](http://midas.iiitd.edu.in/) advised by [Dr. Rajiv Ratn Shah](http://midas.iiitd.edu.in/team/rajiv-ratn-shah.html).
 
 Industry Experience
 ======
-In Summer, 2023 I am interning at Alexa NLU, Cambridge, MA as an Applied Scientist Intern.
+In Summer, 2023 I interned at Alexa NLU, Cambridge, MA as an Applied Scientist Intern working on meta-learning based training approaches for LLMs.
 
 In Summer, 2022 I interned at AWS Lex, Sunnyvale, CA as an Applied Scientist Intern working on domain adaptation of large speech models. 
 
 In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Unity](https://unity.com/), Seattle, WA in the AI@Unity division where I worked with image tracking and segmentation models for synthetic data.
 
-Earlier in Summer, 2018 I was a Software Development Intern at [Western Digital](https://www.westerndigital.com/), Bangalore working in the Client Storage (SSDs) Validation Division.  
+
+Services
+======
+Reviewer: EMNLP Blackbox'2022, ICDM'2023, EMNLP'Blackbox'2023, EMNLP GenBench'2023, NeurIPS'2023 (Invited), AAAI'2024 
 
 Education
 =====
