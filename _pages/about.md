@@ -48,7 +48,14 @@ In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Uni
 
 Services
 ======
-Reviewer: EMNLP Blackbox'2022, ICDM'2023, EMNLP'Blackbox'2023, EMNLP GenBench'2023, NeurIPS'2023 (Invited), AAAI'2024 
+Reviewer: 
+ICDM - 2023  
+NeurIPS - 2023 (Invited)
+NeurIPS XAIA - 2023
+AAAI - 2024 
+EMNLP - 2022
+EMNLP Blackbox - 2022, 2023
+EMNLP GenBench - 2023
 
 Education
 =====
