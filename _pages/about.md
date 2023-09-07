@@ -49,18 +49,17 @@ In Summer, 2020 I was a Machine Learning (Perception) Engineering intern at [Uni
 Services
 ======
 Reviewer: 
+
 ICDM - 2023  
+
 NeurIPS - 2023 (Invited)
+
 NeurIPS XAIA - 2023
+
 AAAI - 2024 
+
 EMNLP - 2022
+
 EMNLP Blackbox - 2022, 2023
+
 EMNLP GenBench - 2023
-
-Education
-=====
-
-I graduated with my MS in Computer Science from University of Virginia in Spring 2021. My thesis was titled - [
-Perturbing Inputs for Fragile Interpretations in Deep NLP](https://libraetd.lib.virginia.edu/public_view/ft848r240)
-
-I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) where I had opportunity to work at the [IAB Lab](http://iab-rubric.org/) and advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
