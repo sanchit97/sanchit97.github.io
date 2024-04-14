@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Sanchit Sinha"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -50,13 +50,9 @@ Services
 ======
 Reviewer: 
 
-ICDM - 2023  
+AAAI, KDD, ICAI, ICML - 2024
 
-NeurIPS - 2023 (Invited)
-
-NeurIPS XAIA - 2023
-
-AAAI - 2024 
+ICDM, NeurIPS (Invited), NeurIPS XAIA  - 2023  
 
 EMNLP - 2022
 
