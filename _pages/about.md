@@ -15,9 +15,9 @@ I am a third year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
-*April 2024* Paper accepted to IJCAI 2024
+*April 2024*: Paper accepted to IJCAI 2024
 
-*May 2023* Paper accepted to Interspeech 2023
+*May 2023*: Paper accepted to Interspeech 2023
 
 *April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
 
