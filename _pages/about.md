@@ -50,7 +50,7 @@ Services
 ======
 Reviewer: 
 
-AAAI, KDD, ICAI, ICML - 2024
+AAAI, KDD, IJCAI, ICML - 2024
 
 ICDM, NeurIPS (Invited), NeurIPS XAIA  - 2023  
 
