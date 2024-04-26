@@ -17,6 +17,8 @@ NEWS
 
 *April 2024*: Paper accepted to IJCAI 2024
 
+*April 2024*: Awarded a $1000 Cohere Research Grant! Thanks [Cohere](https://cohere.com/)
+
 *May 2023*: Paper accepted to Interspeech 2023
 
 *April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
