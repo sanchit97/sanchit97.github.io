@@ -15,6 +15,8 @@ I am a third year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
+*MAY 2024*: 2 papers accepted to KDD 2024
+
 *April 2024*: Paper accepted to IJCAI 2024
 
 *April 2024*: Awarded a $1000 Cohere Research Grant! Thanks [Cohere](https://cohere.com/)
@@ -24,8 +26,6 @@ NEWS
 *April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
 
 *November 2022*: Paper accepted to AAAI 2023.
-
-*December 2021*: I join [Dr. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang) for future research 
 
 *August 2021*: Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/).
 
