@@ -15,17 +15,17 @@ I am a third year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
-*MAY 2024*: 2 papers accepted to KDD 2024
+*MAY 2024*: 2 papers accepted to KDD 2024 (Acceptance Rate: ~20%)
 
-*April 2024*: Paper accepted to IJCAI 2024
+*April 2024*: Paper accepted to IJCAI 2024 (Acceptance Rate: ~15%)
 
 *April 2024*: Awarded a $1000 Cohere Research Grant! Thanks [Cohere](https://cohere.com/)
 
-*May 2023*: Paper accepted to Interspeech 2023
+*May 2023*: Paper accepted to Interspeech 2023 (Acceptance Rate: ~48%)
 
 *April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
 
-*November 2022*: Paper accepted to AAAI 2023.
+*November 2022*: Paper accepted to AAAI 2023 (Acceptance Rate: ~19.6%)
 
 *August 2021*: Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/).
 
