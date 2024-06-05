@@ -1,7 +1,7 @@
 ---
 title: "CoLiDR: Concept Learning using Aggregated Disentangled Representations"
 collection: publications
-permalink: /publication/
+permalink: /publication/kdd24-colidr
 excerpt: 
 date: 2024-01-01
 venue: 'KDD-2024'

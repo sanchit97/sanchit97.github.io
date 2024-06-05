@@ -1,7 +1,7 @@
 ---
 title: "MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning"
 collection: publications
-permalink: /publication/
+permalink: /publication/kdd24-maml
 excerpt: 
 date: 2024-01-01
 venue: 'KDD-2024'
