@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The latest 1-page version of Resume can be downloaded [here](/files/Resume_SanchitSinha.pdf)
+The latest 1-page version of Resume can be downloaded [here](/files/Resume_Sanchit_Oct24.pdf)
 
 
 Education
