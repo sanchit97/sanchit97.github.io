@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 
-I am a third year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
+I am a fourth year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
 
 NEWS
@@ -52,12 +52,9 @@ Services
 ======
 Reviewer: 
 
-AAAI, KDD, IJCAI, ICML (Invited) - 2024
+TMLR, CVPR, ICLR - 2025
 
-ICDM, NeurIPS (Invited), NeurIPS XAIA  - 2023  
+AAAI (PC), KDD, IJCAI, ICML (Invited) - 2024
 
-EMNLP - 2022
+ICDM, NeurIPS (Invited), NeurIPS XAIA , EMNLP Blackbox, EMNLP GenBench - 2023  
 
-EMNLP Blackbox - 2022, 2023, 2024
-
-EMNLP GenBench - 2023, 2024
