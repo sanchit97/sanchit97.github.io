@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The latest version of Resume can be downloaded [here](/files/Resume_Sanchit_Oct24.pdf)
+The latest version of Resume can be downloaded [here](/files/Resume_Feb25.pdf)
 
 
 Education
