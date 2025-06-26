@@ -15,9 +15,11 @@ I am a fourth year PhD candidate in the [Computer Science department](https://en
 NEWS
 ======
 
-*APRIL 2025*: Paper accepted to IJCAI 2025 (Acceptance Rate: ~20%)
+*June 2025*: Co-author paper accepted to ICCV 2025 (Acceptance Rate: ~24%)
 
-*MAY 2024*: 2 papers accepted to KDD 2024 (Acceptance Rate: ~20%)
+*April 2025*: Paper accepted to IJCAI 2025 (Acceptance Rate: ~20%)
+
+*May 2024*: 2 papers accepted to KDD 2024 (Acceptance Rate: ~20%)
 
 *April 2024*: Paper accepted to IJCAI 2024 (Acceptance Rate: ~15%)
 
