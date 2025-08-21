@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 
-I am a fourth year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
+I am a final year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
 
 NEWS
