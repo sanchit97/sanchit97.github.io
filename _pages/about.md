@@ -36,13 +36,15 @@ NEWS
 
 Research Areas
 ======
-I am broadly interested in interpretability and robustness of Machine Learning models. I explore all 3 verticals of explainability - local, instance and global. 
+I am broadly interested in VLMs, interpretability and robustness. Recently I have also worked with RL-based post-training.
 
 Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
 
 
 Industry Experience
 ======
+In Summer, 2025 I interned at Morgan Stanley, NYC, NY as a Machine Learning Research Intern working on RL based post-training of LVLMs. Link: [Chart-RVR](https://huggingface.co/sanchit97/chart-rvr-3b)
+
 In Summer, 2023 I interned at Alexa NLU, Cambridge, MA as an Applied Scientist Intern working on meta-learning based training approaches for LLMs.
 
 In Summer, 2022 I interned at AWS Lex, Sunnyvale, CA as an Applied Scientist Intern working on domain adaptation of large speech models. 
