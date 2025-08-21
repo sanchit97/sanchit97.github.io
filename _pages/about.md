@@ -15,6 +15,10 @@ I am a fourth year PhD candidate in the [Computer Science department](https://en
 NEWS
 ======
 
+*August 2025*: Paper accepted to EMNLP 2025 (main) (Acceptance Rate: ~22%)
+
+*August 2025*: Completed internship at Morgan Stanley. Refer: [Chart-RVR](https://huggingface.co/sanchit97/chart-rvr-3b)
+
 *June 2025*: Co-author paper accepted to ICCV 2025 (Acceptance Rate: ~24%)
 
 *April 2025*: Paper accepted to IJCAI 2025 (Acceptance Rate: ~20%)
@@ -27,13 +31,7 @@ NEWS
 
 *May 2023*: Paper accepted to Interspeech 2023 (Acceptance Rate: ~48%)
 
-*April 2023*: I passed my Qualification Exam. Officially a PhD Candidate now.
-
 *November 2022*: Paper accepted to AAAI 2023 (Acceptance Rate: ~19.6%)
-
-*August 2021*: Paper accepted to [EMNLP'21 BlackBox Workshop](https://blackboxnlp.github.io/).
-
-*May 2021*: Started PhD at UVA CS.
 
 
 Research Areas
@@ -56,7 +54,7 @@ Services
 ======
 Reviewer: 
 
-TMLR, CVPR, ICLR, ICML, ICCV - 2025
+TMLR, CVPR, ICLR, NeurIPS, ICML, ICCV - 2025
 
 AAAI (PC), KDD, IJCAI, ICML (Invited) - 2024
 
