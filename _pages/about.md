@@ -15,6 +15,8 @@ I am a final year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
+*November 2025*: Paper accepted to AAAI 2026 (oral) (Acceptance Rate: ~17.4%)
+
 *August 2025*: Paper accepted to EMNLP 2025 (main) (Acceptance Rate: ~22%)
 
 *August 2025*: Completed internship at Morgan Stanley. Refer: [Chart-RVR](https://huggingface.co/sanchit97/chart-rvr-3b)
@@ -36,7 +38,7 @@ NEWS
 
 Research Areas
 ======
-I am broadly interested in VLMs, interpretability and robustness. Recently I have also worked with RL-based post-training.
+I am broadly interested in VLMs, interpretability and robustness. Recently I have also worked with RL-based post-training of VLMs.
 
 Previously, I have been involved around biometric research in facial recognition on human-like faces at [IAB Lab](http://iab-rubric.org/).
 
