@@ -14,7 +14,7 @@ The latest version of Resume can be downloaded [here](/files/Resume_May25.pdf)
 
 Education
 ======
-* Ph.D in Computer Science, University of Virginia, 2025 (expected)
+* Ph.D in Computer Science, University of Virginia, 2026 (expected)
 * M.S. in Computer Science, University of Virginia, 2021
 * B.Tech. in Computer Science, IIIT-Delhi, 2019
 
