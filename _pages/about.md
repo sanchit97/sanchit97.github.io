@@ -15,6 +15,8 @@ I am a final year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
+*January 2026*: Co-author paper accepted to AISTATS 2026
+
 *November 2025*: Paper accepted to AAAI 2026 (oral) (Acceptance Rate: ~17.4%)
 
 *August 2025*: Paper accepted to EMNLP 2025 (main) (Acceptance Rate: ~22%)
