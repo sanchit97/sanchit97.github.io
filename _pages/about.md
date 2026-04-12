@@ -15,6 +15,8 @@ I am a final year PhD candidate in the [Computer Science department](https://eng
 NEWS
 ======
 
+*March 2026*: Co-author paper accepted to CVPR 2026 (Acceptance Rate: ~22%)
+
 *January 2026*: Co-author paper accepted to ICLR 2026 (Acceptance Rate: ~28%)
 
 *January 2026*: Co-author paper accepted to AISTATS 2026 (Acceptance Rate: ~30%)
@@ -30,8 +32,6 @@ NEWS
 *May 2024*: 2 papers accepted to KDD 2024 (Acceptance Rate: ~20%)
 
 *April 2024*: Paper accepted to IJCAI 2024 (Acceptance Rate: ~15%)
-
-*April 2024*: Awarded a $1000 Cohere Research Grant! Thanks [Cohere](https://cohere.com/)
 
 *May 2023*: Paper accepted to Interspeech 2023 (Acceptance Rate: ~48%)
 
