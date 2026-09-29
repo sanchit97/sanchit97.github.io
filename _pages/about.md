@@ -9,31 +9,25 @@ redirect_from:
 ---
 Greetings!
 
-I am a final year PhD candidate in the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
+I am an Applied Researcher at Capital One in the AI Foundations Org. I graduated with my PhD from the[Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
 
 NEWS
 ======
 
+*September 2026*: Defended my PhD Thesis! Started at Capital One as an Applied Researcher in NYC.
+
+*September 2026*: 3 co-author papers accepted to NeurIPS 2026 (Acceptance Rate: ~25%)
+
+*July 2026*: Paper accepted to EMNLP 2026 Findings (Acceptance Rate: ~30%)
+
 *March 2026*: Co-author paper accepted to CVPR 2026 (Acceptance Rate: ~22%)
 
 *January 2026*: Co-author paper accepted to ICLR 2026 (Acceptance Rate: ~28%)
 
-*January 2026*: Co-author paper accepted to AISTATS 2026 (Acceptance Rate: ~30%)
-
 *November 2025*: Paper accepted to AAAI 2026 (oral) (Acceptance Rate: ~17.4%)
 
 *August 2025*: Paper accepted to EMNLP 2025 (main) (Acceptance Rate: ~22%)
-
-*June 2025*: Co-author paper accepted to ICCV 2025 (Acceptance Rate: ~24%)
-
-*April 2025*: Paper accepted to IJCAI 2025 (Acceptance Rate: ~20%)
-
-*May 2024*: 2 papers accepted to KDD 2024 (Acceptance Rate: ~20%)
-
-*April 2024*: Paper accepted to IJCAI 2024 (Acceptance Rate: ~15%)
-
-*May 2023*: Paper accepted to Interspeech 2023 (Acceptance Rate: ~48%)
 
 *November 2022*: Paper accepted to AAAI 2023 (Acceptance Rate: ~19.6%)
 
