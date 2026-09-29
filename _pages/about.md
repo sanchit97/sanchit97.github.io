@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 
-I am an Applied Researcher at Capital One in the AI Foundations Org. I graduated with my PhD from the[Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
+I am an Applied Researcher at Capital One in the AI Foundations Org. I graduated with my PhD from the [Computer Science department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://engineering.virginia.edu/) advised by [Dr. Aidong Zhang](https://www.cs.virginia.edu/~az9eg/website/lab.html).
 
 
 NEWS
